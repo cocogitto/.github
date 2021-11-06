@@ -1,1 +1,4 @@
-# .github
+# Cocogitto
+The conventional commit toolbox
+
+
